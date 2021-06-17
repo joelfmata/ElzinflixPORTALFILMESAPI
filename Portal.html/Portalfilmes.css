@@ -1,0 +1,182 @@
+*{
+    background-color: aliceblue;
+}
+
+button{
+    background-color: white;
+}
+ 
+
+h1{
+    background-color: blue;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 0px;
+}
+nav{
+    color: rgb(3, 3, 3);
+}
+h2{
+    color: blue;
+    text-align: center;
+    font-size: xx-large;
+}
+
+ p1{
+    color: cornflowerblue;
+    font-size: small;
+}
+
+p2{
+    color: cornflowerblue;
+    font-size: small;
+}
+
+p3{
+    color: cornflowerblue;
+    font-size: small;
+}
+
+h3{
+    color: blue;
+    text-align: center;
+    font-size: xx-large;
+}
+
+p4{
+    color: cornflowerblue;
+    font-size: small;
+}
+
+p5{
+    color: cornflowerblue;
+    font-size: small;
+}
+
+.pessoa1{
+    width: 40px;
+    height: 40px;
+    color: cornflowerblue;
+}
+.pessoa2{
+    width: 40px;
+    height: 40px;
+    color: cornflowerblue;
+}
+.pessoa3{
+    width: 40px;
+    height: 40px;
+    color: cornflowerblue;
+}
+
+.card-title{
+    color: cornflowerblue;
+}
+
+.card-text{
+    color: rgb(5, 5, 5);
+}
+
+p6{
+    color: cornflowerblue;
+}
+
+h4{
+    color: blue;
+    text-align: center;
+    font-size: xx-large;
+}
+
+span{
+    color: rgb(7, 7, 6);
+}
+small{
+    color: rgb(5, 5, 5);
+}
+
+i{
+    color: rgb(3, 3, 3);
+}
+
+p7{
+    color: cornflowerblue;
+    margin-top: 100px;
+
+}
+
+p8{
+    color: cornflowerblue;
+}
+
+h5{
+    color: blue;
+    text-align: center;
+    font-size: xx-large;
+}
+
+p9{
+    color: cornflowerblue;
+    font-size: small;
+}
+
+p10{
+    color: cornflowerblue;
+    font-size: small;
+}
+
+p11{
+    color: cornflowerblue;
+    font-size: small;
+}
+
+h6{
+    color: blue;
+    text-align: left;
+    font-size: xx-large;
+}
+
+.fragmentado{
+    height: 200px;
+    width: 200px;
+}
+
+h11{
+    color: cornflowerblue;
+}
+
+.card-text-frag{
+    color: rgb(3, 3, 3);
+}
+
+.reileao{
+    height: 200px;
+    width: 200px;
+}
+
+h12{
+    color: cornflowerblue;
+}
+
+.fotocel{
+    height: 200px;
+    width: 200px;
+}
+
+h13{
+    color: cornflowerblue;
+}
+
+h14{
+    color: blue;
+    text-align: right;
+    font-size: xx-large;
+}
+p12{
+        color: cornflowerblue;
+        font-size: large;
+    }
+
+p13{
+        color: cornflowerblue;
+        font-size: large;
+    }
